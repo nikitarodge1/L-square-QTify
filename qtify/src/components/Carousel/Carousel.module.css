@@ -1,0 +1,22 @@
+.swiper {
+    position: relative;
+    width: 100%;
+}
+
+.leftIcon {
+    position: absolute;
+    left: 10px;
+    top: 40%;
+    transform: translateY(-50%);
+    z-index: 10;
+    cursor: pointer;
+}
+
+.rightIcon {
+    position: absolute;
+    right: 10px;
+    top: 40%;
+    transform: translateY(-50%);
+    z-index: 10;
+    cursor: pointer;
+}
